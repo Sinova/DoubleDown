@@ -1,0 +1,21 @@
+{
+  "name": "doubledown",
+  "version": "1.0.0",
+  "description": "Super Lightweight Markdown-Style Parser",
+  "main": "doubledown.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinova/DoubleDown.git"
+  },
+  "keywords": [
+    "doubledown",
+    "markdown",
+	"comments"
+  ],
+  "author": "Samuel Hodge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sinova/DoubleDown/issues"
+  },
+  "homepage": "https://github.com/Sinova/DoubleDown"
+}
