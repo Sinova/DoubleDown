@@ -32,7 +32,7 @@ Apart from links, all features are triggered by surrounding text with a set of m
 	<tr>
 		<td>Link</td>
 		<td>[Click Here](https://google.com)</td>
-		<td>&lt;a rel="nofollow noreferrer noopener" target="_blank" href="https://google.com"&gt;Click Here&lt;/a&gt;</td>
+		<td>&lt;a rel="nofollow noreferrer noopener" target="_blank" href="https<i></i>://google.com"&gt;Click Here&lt;/a&gt;</td>
 	</tr>
 	<tr>
 		<td>Code</td>
