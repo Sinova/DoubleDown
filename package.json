@@ -1,6 +1,6 @@
 {
   "name": "doubledown",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Super Lightweight Markdown-Style Parser",
   "main": "doubledown.js",
   "repository": {
@@ -10,7 +10,7 @@
   "keywords": [
     "doubledown",
     "markdown",
-	"comments"
+    "comments"
   ],
   "author": "Samuel Hodge",
   "license": "MIT",
