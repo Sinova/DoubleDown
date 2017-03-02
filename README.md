@@ -40,9 +40,9 @@ Apart from links, all features are triggered by surrounding text with a set of m
 		<td>&lt;code&gt;var foo = 123;&lt;/code&gt;</td>
 	</tr>
 	<tr>
-		<td>Command</td>
-		<td>$$Ctrl + Click$$</td>
-		<td>&lt;kbd&gt;Ctrl + Click&lt;/kbd&gt;</td>
+		<td>Keyboard Shortcut</td>
+		<td>$$Ctrl + S$$</td>
+		<td>&lt;kbd&gt;Ctrl + S&lt;/kbd&gt;</td>
 	</tr>
 	<tr>
 		<td>Quote</td>
